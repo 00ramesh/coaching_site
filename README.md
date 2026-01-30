@@ -1,1 +1,1 @@
-# coaching_site
+# green-institute-curiosity
